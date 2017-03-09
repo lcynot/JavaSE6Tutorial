@@ -3,8 +3,9 @@ Java SE 6 技術手冊
 
 為什麼選擇用 Markdown？只是單純把文件重新排版太無聊了，不如趁這個機會學些新東西，所以我就藉這個機會來學著用 Markdown，並看看它有什麼好處與壞處 ... 如果你需要 PDF 與 epub 格式，而又有點懶自己轉換，那麼可以考慮在 [Google Play](https://play.google.com/store/books/details?id=IYqPAgAAQBAJ) 或 [Pubu](http://www.pubu.com.tw/ebook/Java-SE-6-%E6%8A%80%E8%A1%93%E6%89%8B%E5%86%8A-28587)  上向便當價致敬，如果你需要 mobi 格式，可以使用 [calibre](http://calibre-ebook.com/)  把 epub 轉為 mobi ... :)
 
+我在 GitBook 上用這本書前半本 [試排了一個版本](http://caterpillar.gitbooks.io/javase6tutorial/)，如果你需要在 GitBook 上取得完整版本，請跟我聯絡！
 
-《Java SE 6 技術手冊》（以及它先前的版本）是以 [我的網站](http://openhome.cc) 中早期學習 Java 的筆記 [JavaGossip1](http://openhome.cc/Gossip/JavaGossip-V1/) 與 [JavaGossip2](http://openhome.cc/Gossip/JavaGossip-V2/) 為基礎，記錄著我學習 Java 的一些心得。
+《Java SE 6 技術手冊》（以及它先前的版本）是以 [我的網站](https://openhome.cc) 中早期學習 Java 的筆記 [JavaGossip1](https://openhome.cc/Gossip/JavaGossip-V1/) 與 [JavaGossip2](https://openhome.cc/Gossip/JavaGossip-V2/) 為基礎，記錄著我學習 Java 的一些心得。
 
 在 JDK7 問世之後，由於累積不少 Java 教學經驗與想法，為了有一本可以符合我教學所需的教材，因而在為 JDK7 撰寫 Java 書籍時，並不是改版《Java SE 6 技術手冊》，而是重新撰寫了一本 [《Java SE 7 技術手冊》](http://books.gotop.com.tw/bookdetails.aspx?bn=ACL034000)。
 
@@ -15,12 +16,12 @@ Java SE 6 技術手冊
 每章的〈網路資源〉被我拿掉了，因為不少鏈結年代久遠已經失效，我懶得一個一個去檢查還有哪些鏈結活著 ... 附錄內容也因較舊而拿掉了，你可以分別參考以下資訊：
 
 - [認識 Gradle](http://www.codedata.com.tw/java/understanding-gradle-1-ant/)
-- [JUnit](http://openhome.cc/Gossip/JUnit/)
+- [JUnit](https://openhome.cc/Gossip/JUnit/)
 - [MySQL 超新手入門](http://www.codedata.com.tw/database/mysql-tutorial-getting-started/)
 
 原始碼範例都改為 UTF-8 編碼了，因此使用 `javac` 編譯時，記得加上 `-encoding UTF-8`。
 
-新的 Java 文件基於 JDK8 而撰寫，你可以在 [我的網站](http://openhome.cc) 上的 [Java Gossip](http://openhome.cc/Gossip/Java/) 進行閱讀。
+新的 Java 文件基於 JDK8 而撰寫，你可以在 [我的網站](https://openhome.cc) 上的 [Java Gossip](https://openhome.cc/Gossip/Java/) 進行閱讀。
 
 ----------
 
